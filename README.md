@@ -1,1 +1,8 @@
-# IndividualProject2021-22
+# Individual Project 2021-22
+Description
+Todo: include logo or graphic
+
+## Documentation
+
+
+
